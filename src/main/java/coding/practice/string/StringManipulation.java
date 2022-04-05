@@ -8,7 +8,7 @@ import static java.util.Map.Entry.comparingByValue;
 import static java.util.stream.Collectors.counting;
 import static java.util.stream.Collectors.groupingBy;
 
-public class DuplicateCharacterCount {
+public class StringManipulation {
 
 
     public static void main(String[] args) {
